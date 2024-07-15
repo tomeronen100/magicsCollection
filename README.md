@@ -4,6 +4,7 @@
 This project is part of the Spring 2023 Introduction to Data Structures course. It focuses on implementing and understanding AVL Trees and Hash Tables using Java and Object-Oriented Programming (OOP) principles.
 
 ## Project Structure
+```
 AVLTreeAndHashTables/
 ├── AVLTree.java
 ├── DoubleHashTable.java
@@ -12,9 +13,7 @@ AVLTreeAndHashTables/
 ├── SpellSimple.java
 ├── Tester.java
 └── README.md
-
-sql
-Copy code
+```
 
 ## Description
 
